@@ -1,0 +1,19 @@
+{
+  "name": "de.lumpn.unity-deduplication",
+  "version": "0.1.0",
+  "displayName": "Addressables Deduplication",
+  "description": "Smarter Addressables deduplication.",
+  "dependencies": {
+    "com.unity.addressables": "1.19.19"
+  },
+  "keywords": [
+    "lumpn",
+    "addressables",
+    "deduplication",
+    "duplicate"
+  ],
+  "author": {
+    "name": "Jonas Boetel",
+    "url": "https://github.com/lumpn"
+  }
+}
