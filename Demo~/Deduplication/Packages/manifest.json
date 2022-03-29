@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.unity.ide.monodevelop": "file:../../../../com.unity.ide.monodevelop-2.3.1.tgz",
     "de.lumpn.unity-deduplication": "file:../../../"
   }
 }
