@@ -16,7 +16,27 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: dc1e13f50b24b3f46b0a0ac1ff0b3301
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 525859c8b3f96aa449fd4fc0607f15c1
+    m_Address: Assets/Data/Classes/Hunter.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbca1d5b9155e4b4f927b63768effb65
+    m_Address: Assets/Data/Classes/Mage.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edcc687fb519df240954e3cb85dcde64
+    m_Address: Assets/Data/Classes/Rogue.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06da82f284cd1c74a879ce27777b73cc
+    m_Address: Assets/Data/Classes/Warlock.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38b126b152a2d694cae14cd1a176084c
+    m_Address: Assets/Data/Classes/Warrior.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 586d581e885f5944899afc85dcfd93c5, type: 2}
   m_SchemaSet:
