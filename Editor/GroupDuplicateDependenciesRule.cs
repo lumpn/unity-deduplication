@@ -6,7 +6,7 @@ using UnityEditor.AddressableAssets.Build.AnalyzeRules;
 using UnityEditor.AddressableAssets.Settings;
 using UnityEditor.AddressableAssets.Settings.GroupSchemas;
 
-namespace AddressableDeduplication
+namespace Lumpn.Deduplication
 {
     public sealed class GroupDuplicateDependenciesRule : AnalyzeRule
     {
